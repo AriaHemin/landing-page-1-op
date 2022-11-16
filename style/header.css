@@ -1,0 +1,47 @@
+header{
+    padding-top: 1.2rem;
+    padding-bottom: 25vh;
+
+}
+
+
+
+
+header nav {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+    
+}
+
+
+
+.right-section{
+   margin-right: auto;
+
+
+}
+
+
+.left-section{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+
+.home{
+    margin-right: 1rem;
+    color: rgb(221, 221, 221);
+}
+.about{
+    color: rgb(221, 221, 221);
+    margin-right: 1rem;
+}
+.contact{
+    color: rgb(221, 221, 221);
+
+
+}

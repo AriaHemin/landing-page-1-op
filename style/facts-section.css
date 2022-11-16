@@ -1,0 +1,52 @@
+.facts{
+    padding-inline: 5rem;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+
+}
+
+.facts h1 {
+    font-size: 50px;
+
+}
+
+
+.facts-box{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.fact-block{
+    display: inline-block;
+    margin: 20px;
+    height: 210px;
+    max-width: 175;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.fact-block p{
+    width: 0;
+    min-width: 100%;
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+.facts img {
+    border: solid 2px var(--accent-color) ;
+    border-radius: 8px;
+    padding: 1rem;
+    max-width: 138px;
+    min-height: 128px;
+    display: block;
+
+}

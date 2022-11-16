@@ -1,0 +1,18 @@
+.quote-section{
+    padding-inline: 10rem;
+    background-color: var(--secondary-color);
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-emphasis-style: 10;
+
+}
+
+.quote-section p{
+    font-size: 50px;
+
+}
+
+figcaption{
+    font-size: 30px;
+    margin-left: 60%;
+}
